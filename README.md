@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @atulraj164
-- 👀 I’m interested in coading and devlopment..
-- 🌱 I’m currently learning btech cse at beu...
-- 💞️ I'm looking for opportunity ...
-- 📫 How to reach me .atulraj164@gmail.com..
+I’m Atul Raj, a Computer Science Engineer and Java Backend Developer focused on building scalable and efficient applications. Skilled in Java, Spring Boot, MySQL, Angular, Data Structures & Algorithms, and core computer science fundamentals. Passionate about problem-solving, clean code, and continuously learning modern technologies to grow as a software engineer.
 
 <!---
 atulraj164/atulraj164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
